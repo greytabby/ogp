@@ -42,3 +42,11 @@ type Audio struct {
 type Locale struct {
 	Alternate []string
 }
+
+func Parse(document string) (*OpenGraph, error) {
+	return nil, nil
+}
+
+func parse(document string) (*OpenGraph, error) {
+	return nil, nil
+}
